@@ -8,7 +8,7 @@ aprendimos utilizar el **visual basic excel** y sus comandos
  para finalizar es end sub
 ## **para empezar a ejecutar lo que escribes**
 para empezar lo que quieres escribir y como ejecutar es con el comando de
-> msgbox   = > maria 
+> msgbox   = > maria
 ## **variables**
 a las variables se le asigna un valor y tambien pues se pueden reemplazar
 por ejemplo si queremos asignar una valor a una variable debemos poner entre
@@ -18,6 +18,7 @@ y para reemplazar ponemos >msgbox
 en el diagrama de flujo podrmos ordenar y organizar de como va a ser todo lo
 que vamos a ejecutar en el programa ejemplo de es:
 
->inicio
+>sub
 >nom = "luis"
 >num = 10
+>end sub 

@@ -21,4 +21,5 @@ que vamos a ejecutar en el programa ejemplo de es:
 >sub
 >nom = "luis"
 >num = 10
->end sub 
+>msgbox en cada una de ellas de los valores que se le dan a la variable para ejecutars
+>end sub

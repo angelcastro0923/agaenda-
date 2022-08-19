@@ -8,9 +8,9 @@ aprendimos utilizar el visual basic excel y sus comandos
  para finalizar es end sub
 ## para empezar a ejecutar lo que escribes
 para empezar lo que quieres escribir y como ejecutar es con el comando de
- msgbox  = " maria "
+ msgbox  = "maria"
 ## variables
 a las variables se le asigna un valor y tambien pues se pueden reemplazar
 por ejemplo si queremos asignar una valor a una variable debemos poner entre
 comillas el nombre que le vamos asignar a la variable dentro de comillas " luis "
-y para reemplazar ponemos msgbox 
+y para reemplazar ponemos msgbox

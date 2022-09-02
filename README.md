@@ -23,3 +23,21 @@ que vamos a ejecutar en el programa ejemplo de es:
 >num = 10
 >msgbox en cada una de ellas de los valores que se le dan a la variable para ejecutars
 >end sub
+
+### viernes 2 de septiembre
+
+
+´´´´
+
+    Sub actividad()
+        
+        For y = 2 To 21
+            nom = nombres.Cells(y, 1)
+            ult = Len(nom) - 1
+            nombres.Cells(y, 2) = Mid(nom, ult, 2)
+            
+        Next y
+        
+    End Sub
+
+´´´´

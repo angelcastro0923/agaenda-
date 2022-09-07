@@ -1,4 +1,4 @@
-# **agaenda**
+# **Agenda**
 mis apuntes
 ## **apuntes de lo aprendido en clases**
 aprendimos utilizar el **visual basic excel** y sus comandos
@@ -40,4 +40,19 @@ que vamos a ejecutar en el programa ejemplo de es:
         
     End Sub
 
-´´´´
+# Programacion (algoritmo)
+si (estructura)
+inicio
+|
+| si cond entonces
+| sino
+| fin si
+fin 
+inicio
+|
+| si 1 > 9 entonces
+|  escriba "si"  
+| sino
+| escriba " no"
+| fin si
+| fin

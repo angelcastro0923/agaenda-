@@ -45,7 +45,7 @@ que vamos a ejecutar en el programa ejemplo de es:
 
 # taller-26-de-agosto
 
-```
+~~~
 Sub actividad()
 
   ingresos = InputBox("ingrese impuestos anuales de la empresa")
@@ -81,11 +81,11 @@ Sub actividad()
       End If
   End If
   End Sub
-```
-
+~~~
 
 ## taller- for
 
+~~~
 Sub evento()
     siabon = 0
     noabon = 0
@@ -114,11 +114,11 @@ Sub evento()
     MsgBox "El total abonado es " & total_abonado
     MsgBox "El promedio de los estudiantes que abonaron fue de " & promedio
 End Sub
-```
+~~~
 
 ## taller-dart-cadenas 
 
-```
+~~~
 void main() {
  
   Gato gato = Gato();
@@ -160,9 +160,11 @@ class Carnivoro{
    print(altura*peso);
  }
 }
-```
+~~~
+
 ## taller-herencia
-```
+
+~~~
 void main(){
   
   Conejo conejo = Conejo();
@@ -244,4 +246,4 @@ class Omnivoro extends Animal{
   String? tipo = 'Omnivoro';
 }
 class Hombre extends Omnivoro{}
-```
+~~~
